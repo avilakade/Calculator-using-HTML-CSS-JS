@@ -1,1 +1,1 @@
-# E-commerce-website
+Simple Calculator using HTML CSS JS
